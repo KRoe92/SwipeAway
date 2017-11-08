@@ -1,0 +1,24 @@
+Pizza
+Burger
+Sushi
+Lasagna
+Bacon
+Nutella
+Burrito
+Ice Cream
+Duck
+Pancake
+Orange
+Peanut Butter
+Soda
+Coffee
+Milkshake
+Popcorn
+Cheesecake
+Mango
+Kebab
+Croissant
+Donut
+Brownie
+Pineapple
+Tea

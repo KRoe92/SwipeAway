@@ -1,0 +1,170 @@
+Pizza
+Beef Burger
+Chicken Burger
+Sushi
+Lasagna
+Bacon
+Nutella
+Burrito
+Ice Cream Cone
+Peking Duck
+Pancake Stack
+Crepes
+Orange Juice
+Peanut Butter
+Soda
+Soda Float
+Coffee Cake
+Milkshake
+Butter Popcorn
+Toffee Popcorn
+Nachos
+Cheesecake
+Mango
+Kebab
+Croissant
+Donut
+Brownie
+Pineapple
+Tea
+Custard
+Honey
+Apple Pie
+Waffles
+Sundae
+Tiramisu
+Creme brulee
+Pumpkin Pie
+Black Forest Gateau
+Pavlova
+Yule Log
+Mince Pie
+Caramel Shortbread
+Garlic Bread
+Prawn Toast
+Shish Kebab
+Dumplings
+Paella
+Tapas
+Tartar
+Tacos
+Chili
+Guacamole
+Fondue
+Kimchi
+MeatBalls
+Stuffed peppers
+Mac & cheese
+Caesar salad
+Greak salad
+Spaghetti Bolognese
+Fettuccine Alfredo
+Beef Stroganoff
+Risotto
+Carbonara
+Pad Thai
+Korma
+Naan Bread
+Chicken tikka Masala
+Ramen
+Chicken Soup
+Instant Noodle
+Spring Rolls
+Cheesy Toast
+Cereal
+Porridge
+Scrambled Eggs
+Fried Eggs
+Sausages
+Bagel
+Banana Bread
+Baguette
+French Fries
+Prawns
+Shrimp
+Poutine
+Hotdog
+Buffalo Wings
+Sweet Potato Fries
+Fudge
+Banana Split
+Souther Fired chicken
+Potato Chips
+Baked beans
+Barbecue ribs
+Chocolate-chip cookies
+Turkey
+Goose
+Lobster
+Corn on the Cob
+Omelette
+Fish and Chips
+Hash Brown
+Stew
+BBQ Pork Buns
+Sweet and Sour Chicken
+Shredded Duck
+Hummus
+Falafel
+Ratatouille
+Quiche Lorraine
+Squid
+Smoked Samon
+Fish Fingers
+Chicken Nuggets
+Potato Gratin
+Oysters
+Red Velvet Cake
+Tomato Soup
+Unagi
+Pasta Salad
+Steak and Kidney Pie
+Galettes
+Soupe à L'oignon
+Chocloate Soufflé
+Cheese Soufflé
+Foie Gras
+Raclette
+Escargots
+Muesli
+Gelato
+Carrot Cake
+Rib Eye Steak
+Onion Rings
+Potato Wedges
+Sausage rolls
+Deep Fried Ice Cream
+Pulled Pork Sandwich
+Chipotle Chicken
+Calzone
+Fruit smoothie
+Greek Yogurt
+Rice Pudding
+Veggie Burger
+Hot Chocolate
+Profiteroles
+Grapes
+Caramel Apples
+Ice Cream Sanwich
+Mashed Potatoes
+Beef Brisket
+Deviled Eggs
+Roast Ham
+Roast Potatoes
+Schnitzel
+Pretzel
+Potato Salad
+Marshmallows
+Jell-O
+French Toast
+Macaron
+Chocolate Eclair
+Kouign Amann
+Chocolate Mousse
+Oatmeal
+Crumpet
+Tourtière
+Corned Beef
+Black and White Pudding
+Meatball sub
+Grilled Tuna

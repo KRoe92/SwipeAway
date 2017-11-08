@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d2cbf8db39914514fa62ac1904e78074
+timeCreated: 1492370299
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Charger
+  fontNames:
+  - Charger
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a9dae0d2297bf9342819b8d27d382049, type: 3}
+  - {fileID: 12800000, guid: bf58061d3b699004589fb7ba4ffa0587, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

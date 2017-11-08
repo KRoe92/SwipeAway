@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\swipe2.cs">
+    <Files>
+      <File FileName="Assets\NewBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets\crossOut.cs" Line="1" Column="1" />
+      <File FileName="Assets\Clean.cs" Line="1" Column="1" />
+      <File FileName="Assets\populate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Category.cs" Line="1" Column="1" />
+      <File FileName="Assets\Remove.cs" Line="1" Column="1" />
+      <File FileName="Assets\SwipeTrigger.cs" Line="10" Column="28" />
+      <File FileName="Assets\navigate.cs" Line="64" Column="15" />
+      <File FileName="Assets\Orientation.cs" Line="1" Column="1" />
+      <File FileName="Assets\SideBarControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\SubCat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\AnneTv.txt" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Asia.txt" Line="1" Column="1" />
+      <File FileName="Assets\resultChecker.cs" Line="1" Column="1" />
+      <File FileName="Assets\swipe.cs" Line="23" Column="28" />
+      <File FileName="Assets\swipe2.cs" Line="56" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

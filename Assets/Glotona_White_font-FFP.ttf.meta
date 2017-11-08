@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b8d0a25ed3c5a904cbe7555cdd9ecfab
+timeCreated: 1492369016
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Glotona White
+  fontNames:
+  - Glotona White
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

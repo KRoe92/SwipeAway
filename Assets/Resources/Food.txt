@@ -1,0 +1,250 @@
+Pizza
+Beef Burger
+Chicken Burger
+Sushi
+Lasagna
+Bacon
+Nutella
+Burrito
+Ice Cream Cone
+Peking Duck
+Pancake Stack
+Crepes
+Orange Juice
+Peanut Butter
+Soda
+Soda Float
+Coffee Cake
+Milkshake
+Butter Popcorn
+Toffee Popcorn
+Nachos
+Cheesecake
+Mango
+Kebab
+Croissant
+Donut
+Brownie
+Pineapple
+Oolong Tea
+Green Tea
+Earl Grey Tea
+Custard
+Honey
+Apple Pie
+Apple Crumble
+Waffles
+Bread Pudding
+Sundae
+Sorbet
+Tiramisu
+Trifle
+Pecan Pie
+Creme brulee
+Pumpkin Pie
+Key Lime Pie
+Black Forest Gateau
+Pavlova
+Cherry Pie
+Yule Log
+Flan
+Mince Pie
+Christmas Pudding
+Gulab Jamun
+Caramel Shortbread
+Garlic Bread
+Prawn Toast
+Shish Kebab
+Dumplings
+Paneer Butter Masala
+Paella
+Tapas
+Bouillabaisse
+Tartar
+Tacos
+Chili con carne
+Quessadilla
+Guacamole
+Enchilladas
+Fondue
+Kimchi
+MeatBalls
+Stuffed peppers
+Vegemite
+Mac & cheese
+Caesar salad
+Greak salad
+Mousaka
+Spaghetti Bolognese
+Fettuccine Alfredo
+Beef Stroganoff
+Risotto
+Carbonara
+Pad Thai
+Korma
+Naan Bread
+Chicken tikka Masala
+Green Curry
+Butter Chicken
+Samosa
+Dal
+Papadum
+Ramen
+Chicken Soup
+Chow Mein
+Instant Noodle
+Spring Rolls
+Cheesey Toast
+Cereal
+Porridge
+Scrambled Eggs
+Fried Eggs
+Sausages
+Bagel
+Banana Bread
+Scone
+Cornbread
+Baguette
+French Fries
+Prawns
+Shrimp
+Poutine
+General Tso's Chicken
+Hotdog
+Chili Dog
+Buffalo Wings
+Shaved Ice
+Sweet Potato Fries
+Fudge
+Cobb Salad
+Twinkies
+Jerky
+Banana Split
+Biscuits 'n' gravy
+Chicken fried steak
+Potato Chips
+Crabcakes
+Baked beans
+Clam Chowder
+S'mores
+Barbecue ribs
+BLT Sandwich
+Chocolate-chip cookies
+Peach Cobbler
+Turkey
+Goose
+Lobster
+Salted Peanuts
+Pistachio nuts
+Corn on the Cob
+Omelette
+Fish and Chips
+Hash Brown
+Goulash
+Haggis
+Stew
+BBQ Pork Buns
+Sweet and Sour Chicken
+Pork Belly
+Shredded Duck
+Hummus
+Falafel
+Ratatouille
+Enchiladas
+Shepherd's pie
+Fajitas
+Quiche Lorraine
+Frittata
+Couscous
+Squid
+Smoked Samon
+Fish Fingers
+Chicken Nuggets
+Potato Gratin
+Oysters
+Red Velvet Cake
+Green Pea Soup
+Tomato Soup
+Dosa
+Bento Box
+Onigiri
+Unagi
+Pasta Salad
+Yakisoba
+Yorkshire pudding
+Cornish Pasty
+Steak and Kidney Pie
+Sticky Toffee Pudding
+Banoffee pie
+Toad in the hole
+Galettes
+Soupe à L'oignon
+Chocloate Soufflé
+Cheese Soufflé
+Foie Gras
+Raclette
+Escargots
+Muesli
+Parmigiana
+Gelato
+Carrot Cake
+Rib Eye Steak
+Onion Rings
+Potato Wedges
+Sausage rolls
+Battered Sausage
+Curry Chips
+Deep Fried Ice Cream
+Philly Cheesesteak
+Pulled Pork Sandwich
+Chipotle Chicken
+Calzone
+Fruit smoothie
+Greek Yogurt
+Rice Pudding
+Egg Fried Rice
+Veggie Burger
+Waldorf Salad
+Hot Chocolate
+Profiteroles
+Lemon Meringue Pie
+Ice Cream Cake
+Grapes
+Caramel Apples
+Ice Cream Sanwich
+Blondie
+Jambalaya
+Banana Pudding Cupcake
+Crispy Fried Chicken
+Spicy Southern-Fried Chicken
+Scottish Shortbread
+Mashed Potatoes
+Beef Brisket
+Deviled Eggs
+Empanadas
+Roast Ham
+Roast Potatoes
+Schnitzel
+Pretzel
+Potato Salad
+Marshmallows
+Jell-O
+French Toast
+Macaron
+Chocolate Eclair
+Kouign Amann
+Chocolate Mousse
+Fig tart
+Oatmeal
+Crumpet
+Tourtière
+Corned Beef
+Black and White Pudding
+Tonkatsu (Japanese Deep-fried breaded pork)
+Miso soup
+Massaman Curry
+Simple Thai noodle soup
+Meatball sub
+Grilled Tuna
+Fried Trout
+Nasi Lemak

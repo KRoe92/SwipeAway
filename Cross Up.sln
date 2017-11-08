@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross Up", "Assembly-CSharp.csproj", "{331CE36D-C5F4-9864-2526-EE4588692310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331CE36D-C5F4-9864-2526-EE4588692310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331CE36D-C5F4-9864-2526-EE4588692310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331CE36D-C5F4-9864-2526-EE4588692310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331CE36D-C5F4-9864-2526-EE4588692310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

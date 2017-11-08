@@ -1,0 +1,23 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 515 (ID=0x191e)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.086 seconds
+Platform assembly: C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\karlr\OneDrive\Documents\Cross Up - Copy\a_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

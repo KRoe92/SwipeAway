@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 495849db84ddb764ab3e7de092fd69d6
+timeCreated: 1489916924
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Cover Up
+  fontNames:
+  - DK Cover Up
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
